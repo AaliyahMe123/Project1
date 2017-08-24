@@ -1,0 +1,48 @@
+title{
+  text-align: center;
+  font-family: sans-serif;
+}
+h5{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px
+}
+footer{
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+button{
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  min-width: 105px;
+  border: 3px solid;
+  border-radius: 0px;
+  border-color: black;
+  border-bottom: 100px;
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+  background-color: rgb(42, 90, 141);
+}
+body{
+  background-image: url("https://static.tumblr.com/258f15ae1f053324cd03bed1ce645f1a/ztdpqhh/0INmtywsi/tumblr_static_img_2280.JPG");
+  background-color: rgb(0, 0, 0);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-size: 1000px;
+  background-attachment: fixed;
+}
+.wrapper{
+    text-align: center;
+}
+button:hover{
+  background: rgb(106, 171, 145);
+}
